@@ -7,7 +7,7 @@
 	  :align: center   
 	  :height: 100px   
 	  :alt: 123.hp.com/setup
-	  :target: http://hp123-setup.s3-website-us-west-1.amazonaws.com
+	  :target: https://hp.printredir.com
 
 
 |
